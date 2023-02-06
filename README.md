@@ -1,6 +1,10 @@
-## Your Name
+# Konrad Dunski
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+### [Skills](CV/skills) | [Education](CV/education) | [Experience](CV/experience) | [Hobbies](CV/hobbies)
+
+I spent countless hours consuming all content touching on tech, Web3 and start-ups. I am finally ready and excited to bring my problem-solving mindset, infinite curiosity and hard work to the tech industry.
+
+I am the person you’d come to for advice on how to tackle any problem you’re facing, as well as the person you wouldn’t mind spending 10h next to on a flight.
 
 ## Projects
 
@@ -11,11 +15,14 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Natterjacks** (10/2010 to 04/2022)  
+Assistant Store Manager
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+This position offered me the chance to develop soft skills that are transferrable to any position within the tech industry, such as:
 
+- **Excellent communication skills.** 
+
+  I managed and lead small teams for over a decade. Always striving to deliver results to exceed all expectations and utilise my team member's strengths.
 **Company Name** (start-date to end-date)  
 _Your job title_
 
