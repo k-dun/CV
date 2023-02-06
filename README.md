@@ -1,10 +1,26 @@
 # Konrad Dunski
 
-### [Skills](CV/skills) | [Education](CV/education) | [Experience](CV/experience) | [Hobbies](CV/hobbies)
+### [Skills](https://github.com/k-dun/CV#Skills) | [Projects]() | [Education]() | [Experience]() | [Hobbies]()
 
 I spent countless hours consuming all content touching on tech, Web3 and start-ups. I am finally ready and excited to bring my problem-solving mindset, infinite curiosity and hard work to the tech industry.
 
 I am the person you’d come to for advice on how to tackle any problem you’re facing, as well as the person you wouldn’t mind spending 10h next to on a flight.
+
+## Skills
+
+## Projects
+
+## Education
+
+## Experience
+
+## Hobbies
+
+
+
+
+
+
 
 ## Projects
 
