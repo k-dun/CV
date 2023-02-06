@@ -1,6 +1,6 @@
 # Konrad Dunski
 
-### [Skills](https://github.com/k-dun/CV#Skills) | [Projects]() | [Education]() | [Experience]() | [Hobbies]()
+### [Skills](https://github.com/k-dun/CV#Skills) | [Projects](https://github.com/k-dun/CV#Projects) | [Education](https://github.com/k-dun/CV#Education) | [Experience](https://github.com/k-dun/CV#Experience) | [Hobbies](https://github.com/k-dun/CV#Hobbies)
 
 I spent countless hours consuming all content touching on tech, Web3 and start-ups. I am finally ready and excited to bring my problem-solving mindset, infinite curiosity and hard work to the tech industry.
 
