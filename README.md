@@ -1,10 +1,8 @@
 # Konrad Dunski
 
-### [Skills](https://github.com/k-dun/CV#Skills) | [Projects](https://github.com/k-dun/CV#Projects) | [Education](https://github.com/k-dun/CV#Education) | [Experience](https://github.com/k-dun/CV#Work+Experience) | [Hobbies](https://github.com/k-dun/CV#Hobbies)
+### [Skills](https://github.com/k-dun/CV#Skills) | [Projects](https://github.com/k-dun/CV#Projects) | [Education](https://github.com/k-dun/CV#Education) | [Work Experience](https://github.com/k-dun/CV#Work+Experience) | [Hobbies](https://github.com/k-dun/CV#Hobbies) | [Conclusion](https://github.com/k-dun/CV#Conclusion)
 
-I spend countless hours consuming all content touching on tech, Web3 and start-ups. I am finally ready and excited to bring my problem-solving mindset, infinite curiosity and hard work to the tech industry. 
-
-I add value to wherever I find myself. I am the person you’d come to for advice on how to tackle any problem you’re facing, as well as the person you wouldn’t mind spending 10h next to on a flight.
+I spend countless hours consuming all content touching on tech, Web3 and start-ups. I am ready and excited to bring my problem-solving mindset, infinite curiosity and hard work to the tech industry. 
 
 ## Skills
 
@@ -32,9 +30,9 @@ I successfully managed and lead small teams for over a decade. Always striving t
   
 > **_“The wise adapt themselves to circumstances, as water moulds itself to the pitcher.”_** – Chinese Proverb
 
-Throughout my whole life I moved around a lot. It helped me adapt to new environments and new people (even a whole new country) with relative ease. I am used to learning and researching things on the fly, which will make my transition into software engineering a lot easier. 
+Throughout my whole life I moved around a lot. It helped me adapt to new environments and new people (even a whole new country) with relative ease. I am used to learning and researching things on the fly, which will make my transition into software engineering a lot easier too. 
 
-After all, tech is an ever-changing industry and the ability to learn new standards or frameworks will be key in becoming a full-rounded software developer. Always ready to learn, always ready to adapt.
+After all, tech is an ever-changing industry and the ability to learn new standards or frameworks will be key in becoming a full-rounded software developer. I am always keen to learn and ready to adapt.
 
 ## Projects
 
@@ -54,14 +52,20 @@ Supervisor
 
 Retail Operative
 
+
 ## Hobbies
 
+Most of my interest are either tech or tech-adjacent. Here are some of them:
 
+- I obssessively listen to podcasts, such as: "The a16z Podcast" (focued on tech and culture trends, future of software), "Indie Hackers" (interviews with bootstrapped SaaS founders), "My First Million" (lighthearted and entertaining tech entrepreneurship talks, sprinkled with amazing ideas) and "First Mint" (all things Web3 and sports NFTs covered by LG Doucet and his Dulcet tones).
 
+- Last year I started and ran a newsletter called FUCT (Fairly Unbiased Crypto Thoughts), focussed on all things Web3, with particular focus on the Flow blockchain ecosystem. 
 
+- I'm currently in process of launching a blog on how to break into the UK's tech industry (with a working title "0..1: Break Into Tech"). Warranted I succeed in this mission myself, I intend to create a resource to help and enable other people switch careers and become software engineers, regardless of their age or previous work experience.
 
+- I love streetwear. In particular the utilitarian and workwear side of fashion, from brands such as Acronym and Carhartt. I am also a sneaker addict in recovery.
 
-
+## Conclusion.
 
 
 ## Work Experience
