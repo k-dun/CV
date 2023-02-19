@@ -83,7 +83,7 @@ Most of my interest are either tech or tech-adjacent. Here are some of them:
 
 - I'm currently in process of launching a blog on how to break into the UK's tech industry (with a working title "0..1: Break Into Tech", a play on Ruby syntax and Peter Thiel's book). Warranted I succeed in this mission myself, I intend to create a resource to help and enable other people switch careers and become software engineers, regardless of their age or previous work experience.
 
-- I love streetwear. In particular the utilitarian and workwear side of fashion, from brands such as Acronym and Carhartt. I am also a sneaker addict in recovery.
+- I love streetwear. In particular the utilitarian and workwear side of fashion, from brands like Acronym and Carhartt. I am also a sneaker addict in recovery.
 
 ## Conclusion.
 
