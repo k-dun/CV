@@ -95,13 +95,13 @@
 #
 #
 
-##### I have over a decade's worth of very hard-earned soft skills, including highest level communication and leadership attributes.
-##### However, I strongly believe it's the "intangibles" I bring with that make me an exceptional prospective employee.
-##### I am passionate about solving problems and building solutions. That's what I do best and what excites me the most. Currently, I'm working on getting my foot through the door of the tech industry. Next, it's excelling within it.
-##### I love tech. I love its ubiquitous nature. I love the impact one can have by utilising it. I love it's ever-changing landscape and constant need for adaptability.
-##### I'm an ambivert and it's possibly the root of all my greatest strengths.
-##### My extrovert qualities and sense of humour make me a great team-player. I make everyone feel safe and heard in my presence. The introvert side gave me great introspection skills, always allowing me to adapt and do what's necessary to solve whatever problem I'm presented with.
-##### Both those combined help me find compromise when needed, as well as strength and assertiveness when necessary.
+#### I have over a decade's worth of very hard-earned soft skills, including highest level communication and leadership attributes.
+#### However, I strongly believe it's the "intangibles" I bring with that make me an exceptional prospective employee.
+#### I am passionate about solving problems and building solutions. That's what I do best and what excites me the most. Currently, I'm working on getting my foot through the door of the tech industry. Next, it's excelling within it.
+#### I love tech. I love its ubiquitous nature. I love the impact one can have by utilising it. I love it's ever-changing landscape and constant need for adaptability.
+#### I'm an ambivert and it's possibly the root of all my greatest strengths.
+#### My extrovert qualities and sense of humour make me a great team-player. I make everyone feel safe and heard in my presence. The introvert side gave me great introspection skills, always allowing me to adapt and do what's necessary to solve whatever problem I'm presented with.
+#### Both those combined help me find compromise when needed, as well as strength and assertiveness when necessary.
 
 #
 #
@@ -111,8 +111,8 @@
 #
 #
 
-##### I love writing. In 2022 I created a newsletter called Fairly Unbiased Crypto Thoughts, on all things Web3 and crypto, including regular segments on the Flow blockchain ecosystem and NFTs. I also regularly write on my own Substack discussing my bootcamp experience and variety of tech and tech-adjacent subjects.
-##### I obsessively listen to podcasts, such as: "The a16z Podcast" (focused on tech, culture trends and future of software), "Indie Hackers" (interviews with bootstrapped SaaS founders) and "My First Million" (lighthearted and entertaining tech entrepreneurship talks, sprinkled with amazing ideas).
+#### I love writing. In 2022 I created a newsletter called Fairly Unbiased Crypto Thoughts, on all things Web3 and crypto, including regular segments on the Flow blockchain ecosystem and NFTs. I also regularly write on my own Substack discussing my bootcamp experience and variety of tech and tech-adjacent subjects.
+#### I obsessively listen to podcasts, such as: "The a16z Podcast" (focused on tech, culture trends and future of software), "Indie Hackers" (interviews with bootstrapped SaaS founders) and "My First Million" (lighthearted and entertaining tech entrepreneurship talks, sprinkled with amazing ideas).
 
 #
 #
