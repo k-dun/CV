@@ -40,7 +40,7 @@
 #
 #
 
-#### CAREER COMPANION
+#### [CAREER COMPANION](https://github.com/francescoGuglielmi/career_companion)
 
 ##### Stack: MongoDB, Express, React, Node.js, OpenAI API, HTML, TailwindCSS
 
@@ -48,7 +48,7 @@
 
 #
 
-#### MAKERSBNB
+#### [MAKERSBNB](https://github.com/k-dun/Makers-bnb)
 
 ##### Stack: Ruby, Sinatra, HTML, CSS, PostgreSQL, RSpec
 
