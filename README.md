@@ -1,15 +1,14 @@
 # KONRAD DUNSKI / Junior Software Developer 
 
 #
+
+### [❶ TECH SKILLS](#tech-skills)  |  [❷ TECH EXPERIENCE](#tech-experience)  |  [❸ PROJECTS HIGHLIGHT](#projects-highlight)  |  [❹ WORK EXPERIENCE](#work-experience)
+### [❺ EDUCATION](#education)  |  [❻ ABOUT ME](#about)  |  [❼ HOBBIES](#hobbies)
+
+#
 #
 
-### [❶ TECH SKILLS](https://github.com/k-dun/CV#Skills)  |  [❷ TECH EXPERIENCE](https://github.com/k-dun/CV#Projects)  |  [❸ PROJECTS HIGHLIGHT](https://github.com/k-dun/CV#Education)  |  [❹ WORK EXPERIENCE](https://github.com/k-dun/CV#Work-Experience)
-### [❺ EDUCATION](https://github.com/k-dun/CV#Education)  |  [❻ ABOUT ME](https://github.com/k-dun/CV#About)  |  [❼ HOBBIES](https://github.com/k-dun/CV#Hobbies)
-
-#
-#
-
-### ❶ TECH SKILLS
+### <a name="tech-skills"></a> ❶ TECH SKILLS
 
 #
 #
@@ -23,7 +22,7 @@
 #
 #
 
-### ❷ TECH EXPERIENCE
+### <a name="tech-experience"></a> ❷ TECH EXPERIENCE
 
 #
 #
@@ -36,7 +35,7 @@
 #
 #
 
-### ❸ PROJECTS HIGHLIGHT
+### <a name="projects-highlight"></a> ❸ PROJECTS HIGHLIGHT
 
 #
 #
@@ -58,7 +57,7 @@
 #
 #
 
-### ❹ WORK EXPERIENCE
+### <a name="work-experience"></a> ❹ WORK EXPERIENCE
 
 #
 #
@@ -71,7 +70,7 @@
 #
 #
 
-### ❺ EDUCATION
+### <a name="education"></a> ❺ EDUCATION
 
 #
 #
@@ -91,7 +90,7 @@
 #
 #
 
-### ❻ ABOUT ME
+### <a name="about"></a> ❻ ABOUT ME
 
 #
 #
@@ -107,7 +106,7 @@
 #
 #
 
-### ❼ HOBBIES
+### <a name="hobbies"></a> ❼ HOBBIES
 
 #
 #
