@@ -27,6 +27,13 @@
 #
 #
 
+#### ADHD UK, Frontend Developer (Volunteer) (May 2023 - Present)
+##### * Redesigned and enhanced the website’s Strategy Discovery feature, improving user experience and engagement,
+##### * My long-term goal is to lower the portal’s cognitive load to make it more accessible. 
+
+#
+#
+
 #### Makers Academy, Software Development Trainee (Jan 2023 - May 2023)
 ##### * Developed 3 full-stack web apps utilising SOLID and OOP principles,
 ##### * Optimised web apps through effective debugging, unit testing and TDD processes, 
@@ -96,11 +103,11 @@
 #
 
 #### I have over a decade's worth of very hard-earned soft skills, including highest level communication and leadership attributes.
-#### However, I strongly believe it's the "intangibles" I bring with that make me an exceptional prospective employee.
-#### I am passionate about solving problems and building solutions. That's what I do best and what excites me the most. Currently, I'm working on getting my foot through the door of the tech industry. Next, it's excelling within it.
-#### I love tech. I love its ubiquitous nature. I love the impact one can have by utilising it. I love it's ever-changing landscape and constant need for adaptability.
+#### I am passionate about the process of problem solving and coming up with solutions. That's what I do best and what excites me the most.
+#### I thrive in chaos. I have strong bias to action and I'm always ready to adapt or pivot, if required. I love tech. I love its ubiquitous nature. I love the impact one can have by utilising it. Its ever-changing landscape and constant need for adaptability especially suit my style.
 #### I'm an ambivert and it's possibly the root of all my greatest strengths.
-#### My extrovert qualities and sense of humour make me a great team-player. I make everyone feel safe and heard in my presence. The introvert side gave me great introspection skills, always allowing me to adapt and do what's necessary to solve whatever problem I'm presented with.
+#### My extrovert qualities and sense of humour make me a great team-player. I make everyone feel safe and heard in my presence.
+#### The introvert side gave me great introspection skills, always allowing me to adapt and do what's necessary to solve whatever problem I'm presented with.
 #### Both those combined help me find compromise when needed, as well as strength and assertiveness when necessary.
 
 #
